@@ -8,3 +8,4 @@ Index Table
 2) Lab 02 Name Collection
 3) Lab 03 Taking part in Harmony Gathering
 4) Lab 04 A Taste of Success: The Restaurant Management System
+5) Lab 05 Mix & Match Calculator
