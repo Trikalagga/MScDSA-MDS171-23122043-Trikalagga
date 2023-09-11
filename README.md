@@ -12,5 +12,5 @@ Email: trikalagga.saha@msds.christuniversity.in
 |3.|Lab 03| The Tale of Numbers' Harmony | https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2003.ipynb |
 |4.|Lab 04| A Taste of Success: The Restaurant Management|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2004.ipynb  |
 |5.|Lab 05| Mix & Match Calculator|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/tree/main/Lab%2005   |
-|6.|Lab 06|Vowel Counter! |  |
+|6.|Lab 06|Vowel Counter! | https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2006.ipynb |
 
