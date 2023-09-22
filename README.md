@@ -14,3 +14,5 @@ Email: trikalagga.saha@msds.christuniversity.in
 |5.|Lab 05| Mix & Match Calculator|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/tree/main/Lab%2005   |
 |6.|Lab 06|Vowel Counter! | https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2006.ipynb |
 |7.|Lab 07|My Menu Driven Restaurant|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2007.py
+|
+|9.|Lab 09|Lab 09 Expense tracker|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga.git|
