@@ -16,3 +16,4 @@ Email: trikalagga.saha@msds.christuniversity.in
 |7.|Lab 07|My Menu Driven Restaurant|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/main/Lab%2007.py
 |9.|Lab 09|Lab 09 Expense tracker|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga.git|
 |10.| Lab 10|Lab 10|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/bc552c1d4ccbcba98a961d4aa5daee9f183f2c28/Lab%2010.ipynb| 
+|8.| Lab 08|Matrix Product|https://github.com/Trikalagga/MScDSA-MDS171-23122043-Trikalagga/blob/ad2f89ce9c76eba80460e78c106e7ba5ca915488/LAB%20WORK/Lab%2008.ipynb
